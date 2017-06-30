@@ -11,14 +11,14 @@ contains the following directories and files:
     font-awesome/
     animate.css
     style.css
-  entertainment_centerv3.py
+  entertainment_centerv4.py
   fresh_tomatoesv2.py
   mediav3.py
 
 INSTALL and RUNNING
 After unzipping the file extract, start the application by entering the follow-
 ing command at the system prompt
-$ python entertainment_centerv3.py
+$ python entertainment_centerv4.py
 
 ACKNOWLEDGMENTS
 fresh_tomatoes.py was retrieved from web and written by James Childs-Maidment.
