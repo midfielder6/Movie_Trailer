@@ -3,8 +3,10 @@ Movie Trailer Project
 
 OVERVIEW
 The Movie Trailer project dynamically builds a website using Python based
-data structures.  A zip file (JanssonMovieTrailerv4.zip) is provided that
-contains the following directories and files:
+data structures.
+
+A zip file (JanssonMovieTrailerv4.zip) is provided that contains the following
+directories and files (alternatively the files can be accessed via GitHub):
   assets/
     exit.svg
   CSS/
