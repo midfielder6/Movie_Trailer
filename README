@@ -1,0 +1,29 @@
+PROJECT TITLE
+Movie Trailer Project
+
+OVERVIEW
+The Movie Trailer project dynamically builds a website using Python based
+data structures.  A zip file (JanssonMovieTrailerv4.zip) is provided that
+contains the following directories and files:
+  assets/
+    exit.svg
+  CSS/
+    font-awesome/
+    animate.css
+    style.css
+  entertainment_centerv3.py
+  fresh_tomatoesv2.py
+  mediav3.py
+
+INSTALL and RUNNING
+After unzipping the file extract, start the application by entering the follow-
+ing command at the system prompt
+$ python entertainment_centerv3.py
+
+ACKNOWLEDGMENTS
+fresh_tomatoes.py was retrieved from web and written by James Childs-Maidment.
+It was amended to account for custom parent and child classes.
+
+SUBMITTED
+Code is submitted for review as part of Udacity's Full Stack Nanodegree.
+Steve Jansson (sj1463@att.com)
